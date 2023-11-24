@@ -1,0 +1,1 @@
+First project of the CSS/Flexbox section in the Odin-project foundation course.
